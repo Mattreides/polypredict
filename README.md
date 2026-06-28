@@ -11,7 +11,6 @@ betting: turning a classifier's raw scores into trustworthy probabilities, measu
 whether the signal is real skill or noise (Brier score, walk-forward CV), and only
 acting when the modeled probability diverges from the market by more than a threshold.
 
-> _Add a screenshot:_ `![polypredict](screenshot.png)`
 
 ## What it does
 
